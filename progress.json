@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T17:48:24.046Z",
+  "generated_at": "2026-10-25T14:31:07.274Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -24,6 +24,19 @@
       "path": "problems/0014-linear-regression-using-normal-equation",
       "first_solved_at": "2026-10-23T17:48:20.988Z",
       "last_pushed_at": "2026-10-23T17:48:20.988Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:880": {
+      "kind": "problem",
+      "id": "880",
+      "title": "Create a Float Tensor from a Python List",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/880",
+      "path": "problems/0880-create-a-float-tensor-from-a-python-list",
+      "first_solved_at": "2026-10-25T14:31:00.630Z",
+      "last_pushed_at": "2026-10-25T14:31:00.630Z",
       "language": "python",
       "lines": 8
     }
