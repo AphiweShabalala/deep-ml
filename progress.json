@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T12:31:50.777Z",
+  "generated_at": "2026-11-18T12:34:44.879Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -267,6 +267,17 @@
       "path": "math/0003-neural-network-derivatives",
       "first_solved_at": "2026-11-18T12:31:48.119Z",
       "last_pushed_at": "2026-11-18T12:31:48.119Z"
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-11-18T12:34:42.477Z",
+      "last_pushed_at": "2026-11-18T12:34:42.477Z"
     }
   }
 }
